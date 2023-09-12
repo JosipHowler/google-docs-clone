@@ -61,7 +61,7 @@ https://mongoosejs.com/docs/connections.html - follow the documentation to get t
 
 **Client:** React, React Router, Socket.io, uid, quill
 
-**Server:** Node, Nodemon, dotenv, mongoose, scoket.io
+**Server:** Node, Nodemon, dotenv, mongoose, socket.io
 
 ## Features
 
